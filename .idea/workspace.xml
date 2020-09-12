@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="348af7b6-02d8-46a7-a6fa-32581e6afefc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Api/Frontend/ListController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Api/Frontend/OperationsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/OauthAccessTokens.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/ApiException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/Configuration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/HeaderSelector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/ObjectSerializer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Availability.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/BrowseNode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/BrowseNodeAncestor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/BrowseNodeChild.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/BrowseNodeInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/BrowseNodesResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ByLineInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Classifications.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Condition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ContentInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ContentRating.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Contributor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/CustomerReviews.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/DeliveryFlag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/DimensionBasedAttribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/DurationPrice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ErrorData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ExternalIds.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetBrowseNodesRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetBrowseNodesResource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetBrowseNodesResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetItemsRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetItemsResource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetItemsResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetVariationsRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetVariationsResource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/GetVariationsResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ImageSize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ImageType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Images.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ItemIdType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ItemInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ItemsResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/LanguageType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Languages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ManufactureInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/MaxPrice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Merchant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/MinPrice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/MinReviewsRating.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/MinSavingPercent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ModelInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/MultiValuedAttribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferAvailability.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferCondition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferCount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferDeliveryInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferListing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferLoyaltyPoints.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferMerchantInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferPrice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferProgramEligibility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferPromotion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferSavings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferShippingCharge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferSubCondition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/OfferSummary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Offers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/PartnerType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Price.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ProductAdvertisingAPIClientException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ProductAdvertisingAPIServiceException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/ProductInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Properties.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Rating.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/Refinement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/RefinementBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/RentalOfferListing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/RentalOffers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SearchItemsRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SearchItemsResource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SearchItemsResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SearchRefinements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SearchResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SingleBooleanValuedAttribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SingleIntegerValuedAttribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SingleStringValuedAttribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/SortBy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/TechnicalInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/TradeInInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/TradeInPrice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/UnitBasedAttribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/VariationAttribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/VariationDimension.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/VariationSummary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/VariationsResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/WebsiteSalesRank.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/api/DefaultApi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library/Amazon/com/amazon/paapi5/v1/auth/SignHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/OauthAccessTokensRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/ApiBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Client/Amazon/AmazonApiManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Client/Amazon/Requests/ItemSearch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Client/ApiClientHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Client/Entity/ApiRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Client/Oauth/Oauth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Operations/BaseOperations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Operations/RequestOperation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Response/Entity/ApiResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Response/Entity/GetResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Response/Entity/SearchResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Response/Handlers/Json/JsonResponseHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Response/Handlers/ResponseHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Response/Handlers/Xml/XmlResponseHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service/Api/Response/ResponseManager.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hO6yeFdKuWuk9Ss3tnoa1yBbFP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="348af7b6-02d8-46a7-a6fa-32581e6afefc" name="Default Changelist" comment="" />
+      <created>1599870046321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599870046321</updated>
+      <workItem from="1599870047359" duration="1728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

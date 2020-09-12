@@ -1,0 +1,42 @@
+<?php //%255BApp%255CEntity%255CServiceRequestResponseKey%2524service_request%255D%255B1%255D
+
+return [PHP_INT_MAX, static function () { return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+    $o = [
+        clone (($p = &\Symfony\Component\VarExporter\Internal\Registry::$prototypes)['Symfony\\Component\\Serializer\\Annotation\\Groups'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Serializer\\Annotation\\Groups')),
+        clone ($p['Doctrine\\ORM\\Mapping\\ManyToOne'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\ManyToOne')),
+        clone ($p['Doctrine\\ORM\\Mapping\\JoinColumn'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Doctrine\\ORM\\Mapping\\JoinColumn')),
+    ],
+    null,
+    [
+        'Symfony\\Component\\Serializer\\Annotation\\Groups' => [
+            'groups' => [
+                [
+                    'main',
+                    'main_relations',
+                ],
+            ],
+        ],
+        'stdClass' => [
+            'targetEntity' => [
+                1 => 'App\\Entity\\ServiceRequest',
+            ],
+            'cascade' => [
+                1 => [
+                    'persist',
+                ],
+            ],
+            'inversedBy' => [
+                1 => 'serviceRequestResponseKeys',
+            ],
+            'nullable' => [
+                2 => false,
+            ],
+        ],
+    ],
+    [
+        $o[0],
+        $o[1],
+        $o[2],
+    ],
+    []
+); }];
